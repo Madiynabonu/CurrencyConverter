@@ -1,0 +1,186 @@
+[
+  {
+    "chatId": "1614501630",
+    "firstName": "Нодира",
+    "amount": 100.0,
+    "currencyId": "44",
+    "date": "03/10/2022 18:36",
+    "currencyName": "Myanma kyati"
+  },
+  {
+    "chatId": "1614501630",
+    "firstName": "Нодира",
+    "amount": 67.0,
+    "currencyId": "62",
+    "date": "03/10/2022 18:37",
+    "currencyName": "Suriya funti"
+  },
+  {
+    "chatId": "270657919",
+    "firstName": "M.I.R.S.A.I.D",
+    "amount": 0.22,
+    "currencyId": "69",
+    "date": "03/10/2022 18:44",
+    "currencyName": "AQSH dollari"
+  },
+  {
+    "chatId": "270657919",
+    "firstName": "M.I.R.S.A.I.D",
+    "amount": 55.0,
+    "currencyId": "69",
+    "date": "03/10/2022 18:44",
+    "currencyName": "AQSH dollari"
+  },
+  {
+    "chatId": "270657919",
+    "firstName": "M.I.R.S.A.I.D",
+    "amount": 5566.0,
+    "currencyId": "69",
+    "date": "03/10/2022 18:44",
+    "currencyName": "AQSH dollari"
+  },
+  {
+    "chatId": "270657919",
+    "firstName": "M.I.R.S.A.I.D",
+    "amount": 665544.0,
+    "currencyId": "69",
+    "date": "03/10/2022 18:44",
+    "currencyName": "AQSH dollari"
+  },
+  {
+    "chatId": "270657919",
+    "firstName": "M.I.R.S.A.I.D",
+    "amount": 3212.0,
+    "currencyId": "69",
+    "date": "03/10/2022 18:44",
+    "currencyName": "AQSH dollari"
+  },
+  {
+    "chatId": "270657919",
+    "firstName": "M.I.R.S.A.I.D",
+    "amount": 1.0,
+    "currencyId": "69",
+    "date": "03/10/2022 18:44",
+    "currencyName": "AQSH dollari"
+  },
+  {
+    "chatId": "270657919",
+    "firstName": "M.I.R.S.A.I.D",
+    "amount": 45.0,
+    "currencyId": "29",
+    "date": "03/10/2022 18:46",
+    "currencyName": "Iroq dinori"
+  },
+  {
+    "chatId": "270657919",
+    "firstName": "M.I.R.S.A.I.D",
+    "amount": 665.0,
+    "currencyId": "29",
+    "date": "03/10/2022 18:46",
+    "currencyName": "Iroq dinori"
+  },
+  {
+    "chatId": "270657919",
+    "firstName": "M.I.R.S.A.I.D",
+    "amount": 3.212323123123123E32,
+    "currencyId": "29",
+    "date": "03/10/2022 18:46",
+    "currencyName": "Iroq dinori"
+  },
+  {
+    "chatId": "270657919",
+    "firstName": "M.I.R.S.A.I.D",
+    "amount": 0.211221122,
+    "currencyId": "29",
+    "date": "03/10/2022 18:46",
+    "currencyName": "Iroq dinori"
+  },
+  {
+    "chatId": "912429653",
+    "firstName": "Fayzullo",
+    "amount": 15.0,
+    "currencyId": "21",
+    "date": "03/10/2022 18:54",
+    "currencyName": "EVRO"
+  },
+  {
+    "chatId": "912429653",
+    "firstName": "Fayzullo",
+    "amount": 16.0,
+    "currencyId": "36",
+    "date": "03/10/2022 18:55",
+    "currencyName": "Koreya Respublikasi voni"
+  },
+  {
+    "chatId": "616525392",
+    "firstName": "Nurbek",
+    "amount": 1000.0,
+    "currencyId": "21",
+    "date": "03/10/2022 19:14",
+    "currencyName": "EVRO"
+  },
+  {
+    "chatId": "616525392",
+    "firstName": "Nurbek",
+    "amount": 100.0,
+    "currencyId": "21",
+    "date": "03/10/2022 19:14",
+    "currencyName": "EVRO"
+  },
+  {
+    "chatId": "616525392",
+    "firstName": "Nurbek",
+    "amount": 100.0,
+    "currencyId": "21",
+    "date": "03/10/2022 19:14",
+    "currencyName": "EVRO"
+  },
+  {
+    "chatId": "1053744830",
+    "firstName": "Yusupov",
+    "amount": 110.0,
+    "currencyId": "68",
+    "date": "03/10/2022 19:14",
+    "currencyName": "Ukraina grivnasi"
+  },
+  {
+    "chatId": "1053744830",
+    "firstName": "Yusupov",
+    "amount": 111.0,
+    "currencyId": "68",
+    "date": "03/10/2022 19:14",
+    "currencyName": "Ukraina grivnasi"
+  },
+  {
+    "chatId": "616525392",
+    "firstName": "Nurbek",
+    "amount": 1.0E7,
+    "currencyId": "21",
+    "date": "03/10/2022 19:15",
+    "currencyName": "EVRO"
+  },
+  {
+    "chatId": "2112816071",
+    "firstName": "𝙱𝚕𝚊𝚌𝚔𝚜𝚝𝚘𝚛𝚖",
+    "amount": 9350000.0,
+    "currencyId": "69",
+    "date": "03/10/2022 19:15",
+    "currencyName": "AQSH dollari"
+  },
+  {
+    "chatId": "1053744830",
+    "firstName": "Yusupov",
+    "amount": 56.0,
+    "currencyId": "39",
+    "date": "03/10/2022 19:15",
+    "currencyName": "Laos kipisi"
+  },
+  {
+    "chatId": "2112816071",
+    "firstName": "𝙱𝚕𝚊𝚌𝚔𝚜𝚝𝚘𝚛𝚖",
+    "amount": 8.0,
+    "currencyId": "60",
+    "date": "03/10/2022 19:18",
+    "currencyName": "Shvetsiya kronasi"
+  }
+]

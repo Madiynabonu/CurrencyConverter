@@ -1,0 +1,131 @@
+[
+  {
+    "chatId": "912429653",
+    "firstName": "Fayzullo",
+    "lastName": null,
+    "phoneNumber": "998996093110",
+    "confirmPassword": "3075",
+    "isActive": true,
+    "currency": {
+      "CcyNm_EN": "The Korean Republic Won",
+      "CcyNm_UZC": "Корея Республикаси вони",
+      "Diff": "-0.02",
+      "Rate": "7.67",
+      "Ccy": "KRW",
+      "CcyNm_RU": "Вона Республики Корея",
+      "id": 36,
+      "CcyNm_UZ": "Koreya Respublikasi voni",
+      "Code": "410",
+      "Nominal": "1",
+      "Date": "03.10.2022"
+    }
+  },
+  {
+    "chatId": "1269467656",
+    "firstName": "Madinabonu",
+    "lastName": null,
+    "phoneNumber": "+998930020266",
+    "confirmPassword": "9595",
+    "isActive": true,
+    "currency": {
+      "CcyNm_EN": "Dong",
+      "CcyNm_UZC": "Вьетнам донги",
+      "Diff": "-0.01",
+      "Rate": "4.61",
+      "Ccy": "VND",
+      "CcyNm_RU": "Донг",
+      "id": 72,
+      "CcyNm_UZ": "Vetnam dongi",
+      "Code": "704",
+      "Nominal": "10",
+      "Date": "03.10.2022"
+    }
+  },
+  {
+    "chatId": "1296709770",
+    "firstName": "A|B",
+    "lastName": null,
+    "phoneNumber": "+998994821121",
+    "confirmPassword": "1560",
+    "isActive": true,
+    "currency": null
+  },
+  {
+    "chatId": "1614501630",
+    "firstName": "Нодира",
+    "lastName": null,
+    "phoneNumber": "998991883555",
+    "confirmPassword": "4337",
+    "isActive": true,
+    "currency": {
+      "CcyNm_EN": "Syrian Pound",
+      "CcyNm_UZC": "Сурия фунти",
+      "Diff": "0",
+      "Rate": "4.38",
+      "Ccy": "SYP",
+      "CcyNm_RU": "Сирийский фунт",
+      "id": 62,
+      "CcyNm_UZ": "Suriya funti",
+      "Code": "760",
+      "Nominal": "1",
+      "Date": "03.10.2022"
+    }
+  },
+  {
+    "chatId": "270657919",
+    "firstName": "M.I.R.S.A.I.D",
+    "lastName": null,
+    "phoneNumber": "+998998174618",
+    "confirmPassword": "4163",
+    "isActive": true,
+    "currency": null
+  },
+  {
+    "chatId": "1132376865",
+    "firstName": "Abdu Lateef",
+    "lastName": "عبد للطيف",
+    "phoneNumber": "998935068621",
+    "confirmPassword": "2426",
+    "isActive": false,
+    "currency": null
+  },
+  {
+    "chatId": "616525392",
+    "firstName": "Nurbek",
+    "lastName": "Boboyev",
+    "phoneNumber": "+998946696195",
+    "confirmPassword": "2889",
+    "isActive": true,
+    "currency": {
+      "CcyNm_EN": "Euro",
+      "CcyNm_UZC": "EВРО",
+      "Diff": "108.96",
+      "Rate": "10783.74",
+      "Ccy": "EUR",
+      "CcyNm_RU": "Евро",
+      "id": 21,
+      "CcyNm_UZ": "EVRO",
+      "Code": "978",
+      "Nominal": "1",
+      "Date": "03.10.2022"
+    }
+  },
+  {
+    "chatId": "2112816071",
+    "firstName": "𝙱𝚕𝚊𝚌𝚔𝚜𝚝𝚘𝚛𝚖",
+    "lastName": null,
+    "phoneNumber": "998931263010",
+    "confirmPassword": "6034",
+    "isActive": true,
+    "currency": null
+  },
+  {
+    "chatId": "1053744830",
+    "firstName": "Yusupov",
+    "lastName": "Fayzullo",
+    "phoneNumber": "+998994353074",
+    "confirmPassword": "4516",
+    "isActive": true,
+    "currency": null
+  }
+]
